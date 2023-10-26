@@ -1,3 +1,5 @@
+#python functions: concatenate and reverse strings
+
 def concatenation_rev(string_1, string_2, string_3):
     concatenated_string = string_1 + string_2 + string_3
     return concatenated_string[::-1]
