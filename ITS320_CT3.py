@@ -1,4 +1,4 @@
-#using decision statements to output ferrari values depending on year
+#python decision strcutures: output ferrari values depending on year
 
 year = int(input("Enter year:\n"))
 
