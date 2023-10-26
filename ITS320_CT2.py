@@ -1,4 +1,4 @@
-#storing data in dictionaries
+#python dictionary
 
 #create empty dictionary
 car = {}
