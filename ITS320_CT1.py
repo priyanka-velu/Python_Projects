@@ -1,4 +1,4 @@
-#python output
+#python output: mouse
 
 print('         (\-.')
 print('         / _`>')
