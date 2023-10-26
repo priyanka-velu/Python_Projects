@@ -1,3 +1,5 @@
+#python functions: computing the cartesian product
+
 list_a = []
 A = int(input("Enter the number of elements for list a (10 is the maximum): \n"))
 
