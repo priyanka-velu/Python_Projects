@@ -1,3 +1,5 @@
+#using decision statements to output ferrari values depending on year
+
 year = int(input("Enter year:\n"))
 
 if year < 1962:
