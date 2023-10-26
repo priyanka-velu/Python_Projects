@@ -1,2 +1,2 @@
 # ITS320_Portfolio-Project
-Welcome to my Portfolio Project for ITS320!
+Welcome to my Portfolio Project for Python!
